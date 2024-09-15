@@ -65,4 +65,4 @@ sw.js
 
 # Output of build tools
 /.next/
-/.vite/
+/.vite/.env
